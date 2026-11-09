@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+  <title id="title">Noah Tecl's cybersecurity learning journey</title>
+  <desc id="desc">A twilight mountain landscape with a glowing horizon and subtle digital network accents.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07152b"/>
+      <stop offset=".52" stop-color="#123b5a"/>
+      <stop offset="1" stop-color="#226d79"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffe5a3"/>
+      <stop offset="1" stop-color="#f4a66a"/>
+    </linearGradient>
+    <linearGradient id="front" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#12334b"/>
+      <stop offset="1" stop-color="#071b2b"/>
+    </linearGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1600" height="520" fill="url(#sky)"/>
+  <circle cx="1260" cy="170" r="76" fill="#ffd69b" opacity=".13" filter="url(#glow)"/>
+  <circle cx="1260" cy="170" r="48" fill="url(#sun)"/>
+  <path d="M0 315 190 185l145 112 202-180 220 205 180-142 184 154 151-121 328 146v141H0Z" fill="#173e58" opacity=".9"/>
+  <path d="m0 376 213-131 178 148 225-185 189 185 193-138 174 124 181-118 247 122v137H0Z" fill="#0e2c43"/>
+  <path d="m0 422 214-94 181 106 229-101 185 105 205-99 181 94 181-93 224 87v93H0Z" fill="url(#front)"/>
+  <path d="M0 433c260-35 428 44 676 8s481-27 924 2v77H0Z" fill="#071b2b" opacity=".8"/>
+  <g fill="none" stroke="#8edbd2" stroke-width="2" opacity=".42">
+    <path d="M1070 62h88l35 35h72M1377 63h-72l-28 28h-49M1452 126h-58l-34 34h-68M1114 209h86l26-26h60"/>
+    <path d="M1056 118h38l27 27h66M1482 204h-45l-27-27h-66"/>
+  </g>
+  <g fill="#a6eee0" opacity=".85">
+    <circle cx="1057" cy="62" r="4"/><circle cx="1265" cy="97" r="4"/><circle cx="1377" cy="63" r="4"/>
+    <circle cx="1452" cy="126" r="4"/><circle cx="1292" cy="160" r="4"/><circle cx="1114" cy="209" r="4"/>
+    <circle cx="1284" cy="210" r="4"/><circle cx="1482" cy="204" r="4"/>
+  </g>
+  <g fill="#fff" opacity=".68">
+    <circle cx="250" cy="85" r="2"/><circle cx="398" cy="132" r="1.7"/><circle cx="720" cy="66" r="2"/>
+    <circle cx="890" cy="124" r="1.5"/><circle cx="1000" cy="48" r="1.8"/><circle cx="570" cy="106" r="1.4"/>
+  </g>
+  <text x="110" y="204" fill="#a6eee0" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="5">LEARNING • BUILDING • SECURING</text>
+  <text x="104" y="280" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="700">Noah Tecl</text>
+  <text x="110" y="326" fill="#d5e9f1" font-family="Arial, Helvetica, sans-serif" font-size="25">Cybersecurity • Linux • Cloud • Python</text>
+  <path d="M110 358h110" stroke="#a6eee0" stroke-width="4" stroke-linecap="round"/>
+</svg>
