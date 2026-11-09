@@ -20,3 +20,6 @@
 - **Operating System Security** — Completed
   - This room introduces users to operating system security and demonstrates SSH authentication on Linux.
   - [View the room](https://tryhackme.com/room/operatingsystemsecurity?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=whatsapp&sharerId=6a95dd9c8fca26e480c87a8d)
+- **Data Representation** — Completed
+  - Learn about how computers represent numbers and colors.
+  - [View the room](https://tryhackme.com/room/datarepresentation?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=whatsapp&sharerId=6a95dd9c8fca26e480c87a8d)
