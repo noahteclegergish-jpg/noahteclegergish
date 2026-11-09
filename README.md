@@ -1,28 +1,28 @@
-# noahteclegergish
+# Noah Tecl…
 
-## TryHackMe
+Aspiring IT and cybersecurity professional building a strong foundation in operating systems, Linux, cloud computing, and programming through hands-on learning.
 
-- **Cloud Computing Fundamentals** — Completed
-  - Discover how cloud computing helps businesses move faster, do more, and scale with less effort.
-  - [View the room](https://tryhackme.com/room/cloudcomputingfundamentals?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=whatsapp&sharerId=6a95dd9c8fca26e480c87a8d)
-- **Operating Systems: Introduction** — Completed
-  - Explore the basics of operating systems and the core features that power your computer.
-  - [View the room](https://tryhackme.com/room/operatingsystemsintroduction?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=whatsapp&sharerId=6a95dd9c8fca26e480c87a8d)
-- **Operating Systems: Introduction** — Completed
-  - Explore the basics of operating systems and the core features that power your computer.
-  - [View the room](https://tryhackme.com/room/operatingsystemsintroduction?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=whatsapp&sharerId=6a95dd9c8fca26e480c87a8d)
-- **Windows Basics** — Completed
-  - Learn to navigate Windows, manage files, and use essential system tools.
-  - [View the room](https://tryhackme.com/room/windowsbasics?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=whatsapp&sharerId=6a95dd9c8fca26e480c87a8d)
-- **Linux CLI Basics** — Completed
-  - Get comfortable navigating through the Linux CLI.
-  - [View the room](https://tryhackme.com/room/linuxclibasics?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=whatsapp&sharerId=6a95dd9c8fca26e480c87a8d)
-- **Operating System Security** — Completed
-  - This room introduces users to operating system security and demonstrates SSH authentication on Linux.
-  - [View the room](https://tryhackme.com/room/operatingsystemsecurity?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=whatsapp&sharerId=6a95dd9c8fca26e480c87a8d)
-- **Data Representation** — Completed
-  - Learn about how computers represent numbers and colors.
-  - [View the room](https://tryhackme.com/room/datarepresentation?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=whatsapp&sharerId=6a95dd9c8fca26e480c87a8d)
-- **Python: Simple Demo** — Completed
-  - Explore what a basic Python program looks like.
-  - [View the room](https://tryhackme.com/room/pythonsimpledemo?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=whatsapp&sharerId=6a95dd9c8fca26e480c87a8d)
+## Learning & Training
+
+### TryHackMe — Completed Rooms
+
+| Area | Room | What I learned |
+|---|---|---|
+| Cloud | [Cloud Computing Fundamentals](https://tryhackme.com/room/cloudcomputingfundamentals) | Cloud computing concepts and how cloud services support business growth and scalability. |
+| Operating Systems | [Operating Systems: Introduction](https://tryhackme.com/room/operatingsystemsintroduction) | OS fundamentals and the core features that power computers. |
+| Operating Systems | [Windows Basics](https://tryhackme.com/room/windowsbasics) | Windows navigation, file management, and essential system tools. |
+| Security | [Operating System Security](https://tryhackme.com/room/operatingsystemsecurity) | OS security concepts and SSH authentication on Linux. |
+| Linux | [Linux CLI Basics](https://tryhackme.com/room/linuxclibasics) | Navigating the Linux command-line interface. |
+| Computing Fundamentals | [Data Representation](https://tryhackme.com/room/datarepresentation) | How computers represent numbers and colors. |
+| Programming | [Python: Simple Demo](https://tryhackme.com/room/pythonsimpledemo) | The structure of a basic Python program. |
+
+## Areas of Focus
+
+- Operating system fundamentals and security
+- Windows and Linux command-line basics
+- Cloud computing concepts
+- Data representation and Python fundamentals
+
+---
+
+*Continuously learning through hands-on labs and practical exercises.*
