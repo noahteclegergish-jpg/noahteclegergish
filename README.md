@@ -11,3 +11,6 @@
 - **Operating Systems: Introduction** — Completed
   - Explore the basics of operating systems and the core features that power your computer.
   - [View the room](https://tryhackme.com/room/operatingsystemsintroduction?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=whatsapp&sharerId=6a95dd9c8fca26e480c87a8d)
+- **Windows Basics** — Completed
+  - Learn to navigate Windows, manage files, and use essential system tools.
+  - [View the room](https://tryhackme.com/room/windowsbasics?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=whatsapp&sharerId=6a95dd9c8fca26e480c87a8d)
