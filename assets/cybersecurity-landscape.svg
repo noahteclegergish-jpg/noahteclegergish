@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="620" viewBox="0 0 1600 620" role="img" aria-labelledby="title desc">
-  <title id="title">Noah Tecl — Cybersecurity learner</title>
+  <title id="title">Noah Teclegergish — Cybersecurity learner</title>
   <desc id="desc">A cinematic neon city at night with a glass-style hero panel, stars, and digital network lines.</desc>
   <defs>
     <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
@@ -42,7 +42,7 @@
   <path d="M139 109h240" stroke="url(#neon)" stroke-width="3" stroke-linecap="round" filter="url(#glow)"/>
   <rect x="151" y="154" width="12" height="12" rx="6" fill="#58f1db" filter="url(#glow)"/>
   <text x="180" y="166" fill="#aafbf0" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="4">LEARNING • BUILDING • SECURING</text>
-  <text x="148" y="261" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="700" letter-spacing="-2">Noah Tecl</text>
+  <text x="148" y="261" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="700" letter-spacing="-2">Noah Teclegergish</text>
   <text x="153" y="311" fill="#e2e8ff" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="600">Aspiring IT &amp; Cybersecurity Professional</text>
   <text x="153" y="359" fill="#b9c9e6" font-family="Arial, Helvetica, sans-serif" font-size="21">Linux  /  Cloud  /  Security  /  Python</text>
   <path d="M153 395h82" stroke="url(#neon)" stroke-width="4" stroke-linecap="round"/>

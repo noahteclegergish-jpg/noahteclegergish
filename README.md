@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="assets/cybersecurity-landscape.svg" alt="Cinematic cyberpunk night skyline with a glass-style hero panel for Noah Tecl, aspiring IT and cybersecurity professional" width="100%" />
+  <img src="assets/cybersecurity-landscape.svg" alt="Cinematic cyberpunk night skyline with a glass-style hero panel for Noah Teclegergish, aspiring IT and cybersecurity professional" width="100%" />
 </div>
 
 <div align="center">
-  <h1>Noah Tecl</h1>
+  <h1>Noah Teclegergish</h1>
   <strong>Aspiring IT &amp; Cybersecurity Professional</strong><br />
   Linux · Cloud · Security · Python
 </div>
