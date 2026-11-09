@@ -23,3 +23,6 @@
 - **Data Representation** — Completed
   - Learn about how computers represent numbers and colors.
   - [View the room](https://tryhackme.com/room/datarepresentation?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=whatsapp&sharerId=6a95dd9c8fca26e480c87a8d)
+- **Python: Simple Demo** — Completed
+  - Explore what a basic Python program looks like.
+  - [View the room](https://tryhackme.com/room/pythonsimpledemo?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=whatsapp&sharerId=6a95dd9c8fca26e480c87a8d)
