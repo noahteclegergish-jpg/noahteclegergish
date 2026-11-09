@@ -1,26 +1,38 @@
 <div align="center">
-  <img src="assets/cybersecurity-landscape.svg" alt="Twilight mountain landscape with digital network accents and Noah Tecl's cybersecurity learning journey" width="100%" />
+  <img src="assets/cybersecurity-landscape.svg" alt="Cinematic cyberpunk night skyline with a glass-style hero panel for Noah Tecl, aspiring IT and cybersecurity professional" width="100%" />
 </div>
 
-# Noah Tecl
+<div align="center">
+  <h1>Noah Tecl</h1>
+  <strong>Aspiring IT &amp; Cybersecurity Professional</strong><br />
+  Linux · Cloud · Security · Python
+</div>
 
-Aspiring IT and cybersecurity professional building a strong foundation in operating systems, Linux, cloud computing, and programming through hands-on learning.
+---
+
+## Portfolio Dashboard
+
+| Learning snapshot | Progress |
+|:--|--:|
+| Certificates & projects | **9** |
+| TryHackMe rooms completed | **7** |
+| Focus areas | **Linux · Cloud · Security · Python** |
 
 ## Certifications & Projects
 
-Organized as a learning journey—from the broad credential through core security skills and hands-on practice. Open any document to view the certificate.
+A curated path from cybersecurity foundations to practical tools and projects. Select **Open** to view each PDF.
 
-| Order | Certificate / project | Focus | PDF |
+| # | Credential | Skill area | Resource |
 |:--:|---|---|:--:|
-| 1 | Google Cybersecurity Certificate | Cybersecurity professional certificate | [View certificate](Coursera%20google%20certificate.pdf) |
-| 2 | Assets & Threats | Security assets and threats | [View certificate](Coursera%20asset,%20threats%205.pdf) |
-| 3 | Network Security | Networks | [View certificate](Coursera%20network.pdf) |
-| 4 | Linux & SQL | Linux and SQL tools | [View certificate](Coursera%20linux%20and%20sql.pdf) |
-| 5 | Python | Python | [View certificate](Coursera%20python.pdf) |
-| 6 | Detection & Response | Security detection and incident response | [View certificate](Coursera%20detection%20and%20response.pdf) |
-| 7 | SIEM & Playbooks | SIEM workflows and playbooks | [View certificate](Coursera%20SIEM%20and%20PLAYBOOK.pdf) |
-| 8 | SQL Project | Applied SQL | [View project certificate](Coursera%20sql%20project.pdf) |
-| 9 | Additional Coursera Certificate | Certificate ID: 4NU2J20OPCGH | [View certificate](Coursera%204NU2J20OPCGH.pdf) |
+| 01 | **Google Cybersecurity Certificate** | Cybersecurity foundations | [Open ↗](Coursera%20google%20certificate.pdf) |
+| 02 | **Assets & Threats** | Security concepts | [Open ↗](Coursera%20asset,%20threats%205.pdf) |
+| 03 | **Network Security** | Networking | [Open ↗](Coursera%20network.pdf) |
+| 04 | **Linux & SQL** | Linux · SQL | [Open ↗](Coursera%20linux%20and%20sql.pdf) |
+| 05 | **Python** | Programming | [Open ↗](Coursera%20python.pdf) |
+| 06 | **Detection & Response** | Security operations | [Open ↗](Coursera%20detection%20and%20response.pdf) |
+| 07 | **SIEM & Playbooks** | Monitoring · response | [Open ↗](Coursera%20SIEM%20and%20PLAYBOOK.pdf) |
+| 08 | **SQL Project** | Applied SQL | [Open ↗](Coursera%20sql%20project.pdf) |
+| 09 | **Additional Coursera Certificate** | Certificate ID: 4NU2J20OPCGH | [Open ↗](Coursera%204NU2J20OPCGH.pdf) |
 
 ## TryHackMe — Completed Rooms
 
@@ -44,4 +56,6 @@ Organized as a learning journey—from the broad credential through core securit
 
 ---
 
-*Continuously learning through hands-on labs, practical exercises, and new certifications.*
+<div align="center">
+  <em>Continuously learning through hands-on labs, practical exercises, and new certifications.</em>
+</div>
